@@ -1,17 +1,14 @@
-# GetCleanData
-Posting the assignment for the course "Getting and Cleaning Data" from Coursera by JHBSPH
-
-
 ---
 title: "Reproducible Research Peer Assessment 1"
 author: Utpal Datta
 date: "Saturday, July 25, 2015"
 output: html_document
-
 ---
 
-### THIS READ ME DESCRIBES HOW THE CODE "run_analysis.R" WORKS
+# GetCleanData
+Posting the assignment for the course "Getting and Cleaning Data" from Coursera by JHBSPH
 
+### THIS READ ME DESCRIBES HOW THE CODE "run_analysis.R" WORKS
 - Step1 : Download Data
 
 ### Data is downloaded first and the zip file is unzipped
